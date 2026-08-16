@@ -1,7 +1,7 @@
 # Laporan Analisis Business Intelligence
 ## Banking Performance, Credit Funnel, Marketing Efficiency, AO & Branch Performance, serta Product & Customer Insights
 
-> **Catatan konteks data:** dataset yang digunakan bersifat sintetis dan ditujukan untuk pembelajaran/portfolio. Karena itu, seluruh insight dalam laporan ini merupakan simulasi analisis bisnis dan tidak merepresentasikan kondisi bank riil. Periode utama data adalah Juli 2025–Juni 2026, dengan 7 cabang, 28 Account Officer, 50.000 prospek, 10.872 aplikasi, 7.528 aplikasi disetujui, 6.510 pencairan, total pencairan Rp860,905 miliar, dan marketing spend Rp3,495 miliar.
+
 
 ---
 
